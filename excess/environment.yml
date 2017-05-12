@@ -1,0 +1,11 @@
+name: excess
+channels:
+    - conda-forge
+dependencies:
+    - python=3.5
+    - numpy=1.11
+    - matplotlib=2.0
+    - notebook=4.3
+    - cmake=3.2
+    - clangdev=3.9.1
+
