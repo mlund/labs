@@ -8,4 +8,5 @@ dependencies:
     - notebook=4.3
     - cmake=3.2
     - clangdev=3.9.1
+    - libcxx=3.9.1
 
