@@ -9,4 +9,6 @@ dependencies:
     - cmake=3.2
     - clangdev=3.9.1
     - libcxx=3.9.1
+    - wget
+    - unzip
 
